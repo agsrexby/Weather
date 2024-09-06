@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursach_mvvm", "kursach_mvvm\kursach_mvvm.csproj", "{62103599-3B01-49B7-A21C-5125EDB2A945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62103599-3B01-49B7-A21C-5125EDB2A945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62103599-3B01-49B7-A21C-5125EDB2A945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62103599-3B01-49B7-A21C-5125EDB2A945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62103599-3B01-49B7-A21C-5125EDB2A945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

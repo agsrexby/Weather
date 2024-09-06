@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="kursach_mvvm/App.axaml" value="kursach_mvvm/kursach_mvvm.csproj" />
+        <entry key="kursach_mvvm/Views/MainWindow.axaml" value="kursach_mvvm/kursach_mvvm.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
